@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 - Open terminal
 - Clone this project by the command:
 
-git clone <https://github.com/naji-97/Portfolio-/>
+git clone <https://github.com/naji-97/Review-Project/>
 
 - Then go to the main folder using the next command:
 
