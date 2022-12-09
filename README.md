@@ -1,20 +1,32 @@
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)<br>
-  🛠 Built With<br>
-  -Tech Stack<br>
-  -Key Features<br>
-  💻 Getting Started<br>
-  -Setup<br>
-  -Prerequisites<br>
-- [👥 Authors](#authors)<br>
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-For this repository, I've created html templates and styling files in order to built a responsive portfolio , which can help to easy explorate profiles from differents devices.
+<!-- PROJECT DESCRIPTION -->
 
-![Live Demo Link](<https://github.com/naji-97/Portfolio-/assest/img/Screenshot> 2022-12-02 111444.png/)
+# 📖 [Review-Project] <a name="review-project"></a>
+
+> This is my review project for @GraseHtet
+
+**[Review-Project]** is a...
 
 ## Built With 🔨
 
