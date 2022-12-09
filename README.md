@@ -1,80 +1,188 @@
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)<br>
-  🛠 Built With<br>
-  -Tech Stack<br>
-  -Key Features<br>
-  💻 Getting Started<br>
-  -Setup<br>
-  -Prerequisites<br>
-- [👥 Authors](#authors)<br>
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-For this repository, I've created html templates and styling files in order to built a responsive portfolio , which can help to easy explorate profiles from differents devices.
+<!-- PROJECT DESCRIPTION -->
 
-![Live Demo Link](<https://github.com/naji-97/Portfolio-/assest/img/Screenshot> 2022-12-02 111444.png/)
+# 📖 [Review-Project] <a name="review-project"></a>
 
-## Built With 🔨
+> This is my review project for my own
 
-- HTML
-- CSS
-- Git & Github
+**[Review-Project]** is a...
 
-## Live Demo
+## 🛠 Built With <a name="built-with"></a>
 
-[Live Demo Link](<https://github.com/naji-97/Portfolio-/assest/img/Screenshot> 2022-12-02 111444.png/)
+### Tech Stack <a name="tech-stack"></a>
 
-### Install
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-To get a local copy up and running follow these simple example steps.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-- Open terminal
-- Clone this project by the command:
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-git clone <https://github.com/naji-97/Review-Project/>
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-- Then go to the main folder using the next command:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-``
-cd Portfolio-setup-and-mobile-version-skeleton.git
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
+In order to run this project you need:
+
+<!--
+Example command:
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:GraceHtet/hellomicroverse.git
+```
+
+-
 
 ### Usage
 
-- For anyone who wants to practice html5 or/and css3
-- For anyone who wants to create his own portfolio.
+To run the project, execute the following command:
 
-## Authors
+<!--
+Example command:
+```sh
+  rails server
+```
+--->
 
-👤 **Naji@97**
+### Run tests
 
-- GitHub: [@Naji-97](https://github.com/Naji-97)
-- LinkedIn: [@Naji-Ali](https://www.linkedin.com/in/naji-ali-55b5421b3//)
+To run tests, run the following command:
 
-## 🤝 Contributing
+<!--
+Example command:
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+```sh
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/GraceHtet)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/thiri-htet-418047204/)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+<!-- SUPPORT -->
 
-- Hat tip to anyone whose code was used 🔰
-- Inspiration 💘
-- Microverse program ⚡
-- My standup team 🏹
-- My family's support 🙌
+## ⭐️ Show your support <a name="support"></a>
 
-## 📝 License
+If you like this project, please don't forget to follow me and give me advice so that I can improve more.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse, and my coding partners.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
