@@ -44,13 +44,11 @@ To get a local copy up and running follow these simple example steps.
 
 - Open terminal
 - Clone this project by the command:
+```sh
+  cd my-folder
+  git clone <https://github.com/naji-97/Review-Project/>
+```
 
-git clone <https://github.com/naji-97/Review-Project/>
-
-- Then go to the main folder using the next command:
-
-``
-cd Portfolio-setup-and-mobile-version-skeleton.git
 
 - Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
 
